@@ -1,4 +1,4 @@
-EADME for Carbon Code Repository
+README for Carbon Code Repository
 Overview
 
 This repository contains the code examples extracted from the book "Carbon for Beginners Series 1". These examples are designed to help beginners learn the Carbon programming language through practical exercises. Each chapter includes sample code snippets and exercises based on key concepts introduced in the book.
